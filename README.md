@@ -52,13 +52,9 @@ weather-app/
 ---
 ## 🔗 Live Demo
 
-🚀 Deployed App: 
+🚀 Deployed App: [Demo](https://akashkumar2011.github.io/JS-weatherApp/)
 
-  [Demo](https://akashkumar2011.github.io/JS-weatherApp/)
-
-📂 GitHub Repository: 
-
-  [Code](https://github.com/AkashKumar2011/JS-weatherApp)
+📂 GitHub Repository: [Code](https://github.com/AkashKumar2011/JS-weatherApp)
 
 ---
 
