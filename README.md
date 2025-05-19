@@ -2,10 +2,6 @@
 
 A fully responsive and professionally styled weather application built with **HTML**, **CSS**, and **JavaScript**, using real-time data from the **OpenWeatherMap API**.
 
-## 📸 UI Preview
-
-![UI Preview](preview.png)
-
 ## 🚀 Features
 
 - 🔍 Search by city name
@@ -19,24 +15,6 @@ A fully responsive and professionally styled weather application built with **HT
 - ✅ Responsive layout for all screen sizes
 - ⚠️ Error handling for invalid city input
 
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3 (Flexbox, gradients)
-- JavaScript (ES6+, Fetch API)
-- OpenWeatherMap API
-
-## 🧠 How It Works
-
-- Users enter a city name in the input box.
-- On clicking the search button, a request is sent to OpenWeatherMap API.
-- JavaScript parses the returned JSON and updates:
-  - City name
-  - Temperature
-  - Humidity
-  - Wind speed
-  - Corresponding weather icon
-- If the city is invalid, an error message is shown.
 
 ## 📦 File Structure
 
@@ -48,6 +26,38 @@ weather-app/
 └── README.md
 ```
 
+
+---
+## 🧠 How It Works
+
+- Users enter a city name in the input box.
+- On clicking the search button, a request is sent to OpenWeatherMap API.
+- JavaScript parses the returned JSON and updates:
+  - City name
+  - Temperature
+  - Humidity
+  - Wind speed
+  - Corresponding weather icon
+- If the city is invalid, an error message is shown.
+---
+
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, gradients)
+- JavaScript (ES6+, Fetch API)
+- OpenWeatherMap API
+  
+---
+## 🔗 Live Demo
+
+🚀 Deployed App: [https://akashkumar2011.github.io/JS-weatherApp/](https://akashkumar2011.github.io/JS-weatherApp/)  
+📂 GitHub Repository: [https://github.com/AkashKumar2011/JS-weatherApp](https://github.com/AkashKumar2011/JS-weatherApp)
+
+---
+
+
 ## 🔑 API Setup
 
 1. Get your API key from [OpenWeatherMap](https://openweathermap.org/api).
@@ -56,6 +66,7 @@ weather-app/
    const apiKey = "YOUR_API_KEY";
    ```
 
-## 📧 Contact
 
-For any queries, contact 📩 info@unifiedmentor.com
+## 📧 Created By
+
+  Akash Kumar
