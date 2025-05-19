@@ -54,15 +54,11 @@ weather-app/
 
 🚀 Deployed App: 
 
-```
-  [https://akashkumar2011.github.io/JS-weatherApp/](https://akashkumar2011.github.io/JS-weatherApp/)
-```
+  [Demo](https://akashkumar2011.github.io/JS-weatherApp/)
 
 📂 GitHub Repository: 
 
-```
-[https://github.com/AkashKumar2011/JS-weatherApp](https://github.com/AkashKumar2011/JS-weatherApp)
-```
+  [Code](https://github.com/AkashKumar2011/JS-weatherApp)
 
 ---
 
